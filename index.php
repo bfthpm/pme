@@ -1,6 +1,6 @@
 <?php
 
-/* Files app 0.5.5
+/* Files app 0.5.6
 www.files.gallery | www.files.gallery/docs/ | www.files.gallery/docs/license/
 ---
 This PHP file is only 10% of the application, used only to connect with the file system. 90% of the codebase, including app logic, interface, design and layout is managed by the app Javascript and CSS files. */
